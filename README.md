@@ -7,4 +7,4 @@
 [Проект по определению выгодного источника трафика](https://github.com/VLADISLAV195/data-projects/tree/main/bisness-metrics) |  Снизить расходы — отказаться от невыгодных источников трафика и перераспределить бюджет | Pandas, numpy, seaborn, IPython.core.interactiveshell, matplotlib 
 [Проект по продажам игр в мире](https://github.com/VLADISLAV195/data-projects/tree/main/data_platforms) | Выявить определяющие векторы успешности игры | Pandas, numpy, seaborn, IPython.core.interactiveshell, scipy, pymystem3, matplotlib 
 
-КОНТАКТЫ: почта - mironov.vladislav2016@yandex.ru, телеграм, вотсап - 8-952-281-70-27
+КОНТАКТЫ: почта - mironov.vladislav2016@yandex.ru, telegram, whatsapp - 8-952-281-70-27
